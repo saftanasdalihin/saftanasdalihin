@@ -24,4 +24,4 @@
 ## 🌐 Connect with Me
 - [Instagram](https://instagram.com/safta_nas) 
 - [LinkedIn](https://linkedin.com/in/saftanasdalihin)  
-- [Personal Site](https://saftanasdalihin.netlify.app)
+- [Personal Site](https://saftanasdalihin.vercel.app)
