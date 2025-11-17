@@ -19,7 +19,7 @@
 - 🧘 Deep thinking, anime philosophy, and building a better world
 
 ### 📈 GitHub Stats
-![Safta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasdthestudent&show_icons=true&theme=radical)
+![Safta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasd10&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [Instagram](https://instagram.com/safta_nas) 
