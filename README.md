@@ -19,7 +19,7 @@
 - 🧘 Deep thinking, anime philosophy, and building a better world
 
 ### 📈 GitHub Stats
-[![Safta's GitHub Stats](https://metrics.lecoq.io/nasd10)
+![Safta's GitHub Stats](https://metrics.lecoq.io/nasd10)
 
 ## 🌐 Connect with Me
 - [Instagram](https://instagram.com/safta_nas) 
