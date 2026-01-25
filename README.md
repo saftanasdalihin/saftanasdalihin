@@ -1,27 +1,45 @@
-# 👋 Hi, I’m Safta Nasdalihin
+# Hi, I'm Safta Nasdalihib 👋 | Junior Web3 Developer 🚀
 
-🎓 Learning Blockchain Development
-📚 Exploring Solidity, Smart Contracts, Blockchain Fundamentals 
-🎯 Goals: Build NFT Minting, Voting Smart Contract  
+Junior Web3 Developer dedicated to building secure, transparent, and ethical decentralized applications. Currently focused on bridging the gap between blockchain technology and real-world assets (RWA). 
 
-## 🛠️ Tech Stack
-- Languages: Javascript (basic), Solidity (Learning in progress)
-- Tools: Git, VS Code,  
+Guided by the principles of **Shiddiq** (Honesty), **Amanah** (Trust), **Fathonah** (Intelligence), and **Tabligh** (Transparency).
 
-### 💡 Interests
-- 🧠 Smart Contract Development (Solidity, EVM)
-- 🔐 Blockchain Security & Auditing
-- ⚙️ Decentralized Applications (dApps)
-- 🌐 Web3 Infrastructure & Protocols
-- 📈 Crypto Economy & DeFi Systems
-- 🌟 Building tools that solve real-world problems
-- 🧩 Learning how to merge tech with agriculture (AgriTech)
-- 🧘 Deep thinking, anime philosophy, and building a better world
+---
 
-### 📈 GitHub Stats
-![Safta's GitHub Stats](https://metrics.lecoq.io/nasd10)
+### 🛡️ Core Quest: Project Qastha
+I am currently developing **Qastha**, a decentralized escrow-based marketplace designed to eliminate fraud in digital and physical commerce.
+- **Tech:** Solidity, Node.js, Next.js, Hardhat.
+- **Goal:** Creating a trustless environment for ethical trade.
 
-## 🌐 Connect with Me
-- [Instagram](https://instagram.com/safta_nas) 
-- [LinkedIn](https://linkedin.com/in/saftanasdalihin)  
-- [Personal Site](https://saftanasdalihin-site.vercel.app)
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Blockchain:** Solidity, Ethereum (EVM), Hardhat, OpenZeppelin.
+- **Backend:** Node.js, Express.js, MongoDB.
+- **Frontend:** React.js, Next.js, Tailwind CSS, Ethers.js.
+- **Language:** JavaScript (ES6+), Solidity, English (Learning).
+
+---
+
+### 📊 GitHub Stats & Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saftanasdalihin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Safta's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saftanasdalihin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 🌙 Consistency Streak
+*Believing in the power of 'Istiqomah'—small steps every day lead to a major breakthrough.*
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saftanasdalihin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/saftanasdalihin)
+- **Status:** Open for Web3 Bounties, Freelance, and Collaborations.
+
+*"The world's biggest problems are logic puzzles waiting to be solved."*
