@@ -31,15 +31,9 @@ I am currently developing **Qastha**, a decentralized escrow-based marketplace d
 
 ---
 
-### 🌙 Consistency Streak
-*Believing in the power of 'Istiqomah'—small steps every day lead to a major breakthrough.*
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=saftanasdalihin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/saftanasdalihin)
+- **LinkedIn:** [linkedin.com/in/saftanasdalihin](https://linkedin.com/in/saftanasdalihin)
 - **Status:** Open for Web3 Bounties, Freelance, and Collaborations.
 
 *"The world's biggest problems are logic puzzles waiting to be solved."*
