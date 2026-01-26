@@ -31,6 +31,9 @@ I am currently developing **Qastha**, a decentralized escrow-based marketplace d
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=saftanasdalihin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/saftanasdalihin](https://linkedin.com/in/saftanasdalihin)
