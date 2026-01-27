@@ -9,9 +9,9 @@ Guided by the principles of **Shiddiq** (Honesty), **Amanah** (Trust), **Fathona
 ### 🛡️ Current Missions (Proof of Work)
 
 #### 🗳️ [Sura-Chain](https://github.com/saftanasdalihin/sura-chain) 
-A decentralized, privacy-preserving voting system built on **Ethereum L2**.
-- **Tech:** Solidity, Account Abstraction (ERC-4337), Gasless Transactions.
-- **Focus:** Eliminating electoral fraud while maintaining voter privacy.
+A high-performance, censorship-resistant voting protocol built on **Solana**.
+- **Tech:** Rust, Anchor Framework, PDA (Program Derived Addresses) for Sybil Resistance.
+- **Focus:** Eliminating electoral fraud with sub-second finality and near-zero transaction costs.
 
 #### 📦 [Qastha](https://github.com/saftanasdalihin/qastha)
 A decentralized escrow-based marketplace to ensure ethical and fraud-free trade.
