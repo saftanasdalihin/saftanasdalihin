@@ -21,7 +21,7 @@ A decentralized escrow-based marketplace to ensure ethical and fraud-free trade.
 
 ### 🛠️ Tech Stack & Specialized Tools
 
-- **Blockchain & Smart Contracts:** Solidity (Advanced), Ethereum/L2 (Base, Arbitrum), Hardhat, Foundry.
+- **Blockchain & Smart Contracts:** Solidity (Advanced), Ethereum/L2 (Base, Arbitrum), Hardhat, Foundry, Solana/Rust (Learning).
 - **Web3 UX:** Account Abstraction, Paymasters (Gasless), Social Login (Lazorkit/Privy).
 - **Backend & Tools:** Node.js, Linux (Ubuntu), Git (Conventional Commits), Rust (Learning).
 - **Frontend:** React.js, Next.js, Tailwind CSS, Ethers.js / Viem.
@@ -37,7 +37,7 @@ A decentralized escrow-based marketplace to ensure ethical and fraud-free trade.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saftanasdalihin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Safta's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saftanasdalihin&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
