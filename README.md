@@ -1,24 +1,30 @@
-# Hi, I'm Safta Nasdalihib 👋 | Junior Web3 Developer 🚀
+# Hi, I'm Safta Nasdalihin 👋 | Web3 Architect & Security Enthusiast 🚀
 
-Junior Web3 Developer dedicated to building secure, transparent, and ethical decentralized applications. Currently focused on bridging the gap between blockchain technology and real-world assets (RWA). 
+Dedicated Web3 Developer focused on building **Zero-Trust Systems** that are secure, transparent, and user-friendly. I specialize in bridging blockchain's power with real-world governance and commerce.
 
 Guided by the principles of **Shiddiq** (Honesty), **Amanah** (Trust), **Fathonah** (Intelligence), and **Tabligh** (Transparency).
 
 ---
 
-### 🛡️ Core Quest: Project Qastha
-I am currently developing **Qastha**, a decentralized escrow-based marketplace designed to eliminate fraud in digital and physical commerce.
-- **Tech:** Solidity, Node.js, Next.js, Hardhat.
-- **Goal:** Creating a trustless environment for ethical trade.
+### 🛡️ Current Missions (Proof of Work)
+
+#### 🗳️ [Sura-Chain](https://github.com/saftanasdalihin/sura-chain) 
+A decentralized, privacy-preserving voting system built on **Ethereum L2**.
+- **Tech:** Solidity, Account Abstraction (ERC-4337), Gasless Transactions.
+- **Focus:** Eliminating electoral fraud while maintaining voter privacy.
+
+#### 📦 [Qastha](https://github.com/saftanasdalihin/qastha)
+A decentralized escrow-based marketplace to ensure ethical and fraud-free trade.
+- **Tech:** Solidity, Hardhat, OpenZeppelin, Next.js.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Specialized Tools
 
-- **Blockchain:** Solidity, Ethereum (EVM), Hardhat, OpenZeppelin.
-- **Backend:** Node.js, Express.js, MongoDB.
-- **Frontend:** React.js, Next.js, Tailwind CSS, Ethers.js.
-- **Language:** JavaScript (ES6+), Solidity, English (Learning).
+- **Blockchain & Smart Contracts:** Solidity (Advanced), Ethereum/L2 (Base, Arbitrum), Hardhat, Foundry.
+- **Web3 UX:** Account Abstraction, Paymasters (Gasless), Social Login (Lazorkit/Privy).
+- **Backend & Tools:** Node.js, Linux (Ubuntu), Git (Conventional Commits), Rust (Learning).
+- **Frontend:** React.js, Next.js, Tailwind CSS, Ethers.js / Viem.
 
 ---
 
@@ -35,8 +41,8 @@ I am currently developing **Qastha**, a decentralized escrow-based marketplace d
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Build the Future of Trust
 - **LinkedIn:** [linkedin.com/in/saftanasdalihin](https://linkedin.com/in/saftanasdalihin)
-- **Status:** Open for Web3 Bounties, Freelance, and Collaborations.
+- **Status:** **Open for High-Impact Web3 Projects & Government Collaborations.**
 
-*"The world's biggest problems are logic puzzles waiting to be solved."*
+*"Building logic that ensures honesty where human trust is not enough."*
