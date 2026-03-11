@@ -38,10 +38,6 @@ A high-performance, censorship-resistant voting protocol.
 - **Current Focus:** Refactoring core logic with Foundry & Solidity for maximum gas efficiency and security.
 - **Mission:** Eliminating electoral fraud through immutable smart contracts.
 
-#### 📦 [Qastha](https://github.com/saftanasdalihin/qastha)
-A decentralized escrow-based marketplace to ensure ethical and fraud-free trade.
-- **Tech:** Solidity, Hardhat, OpenZeppelin, Next.js.
-
 ---
 
 ### 🛠️ Tech Stack & Specialized Tools
