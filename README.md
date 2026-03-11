@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saftanasdalihin/saftanasdalihin/main/header.png" alt="Header" width="100%">
+  <img src="https://raw.githubusercontent.com/saftanasdalihin/saftanasdalihin/main/Header.svg" alt="Header" width="100%">
 </p>
 
 <p align="center">
