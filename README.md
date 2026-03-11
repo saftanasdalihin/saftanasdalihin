@@ -42,9 +42,8 @@ A high-performance, censorship-resistant voting protocol.
 
 ### 🛠️ Tech Stack & Specialized Tools
 
-- **Blockchain & Smart Contracts:** Solidity (Advanced), Ethereum/L2 (Base, Arbitrum), Foundry, Hardhat.
-- **Web3 UX:** Account Abstraction, Paymasters (Gasless), Social Login (Privy).
-- **Backend & Tools:** Node.js, Linux (Ubuntu), Git (Conventional Commits), Rust (Learning).
+- **Blockchain & Smart Contracts:** Solidity (Beginner), Foundry (Learning), Hardhat (Beginner).
+- **Backend & Tools:** Node.js, Linux (Ubuntu), Git (Conventional Commits).
 - **Frontend:** React.js, Next.js, Tailwind CSS, Viem.
 
 ---
