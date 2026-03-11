@@ -11,7 +11,20 @@
 
 Dedicated Web3 Developer focused on building **Zero-Trust Systems** that are secure, transparent, and user-friendly. I specialize in bridging blockchain's power with real-world governance and commerce.
 
-Guided by the principles of **Shiddiq** (Honesty), **Amanah** (Trust), **Fathonah** (Intelligence), and **Tabligh** (Transparency).
+### 🧭 Guided by the Principles of my Name: **SAFTA NASDALIHIN**
+
+I don't just write code; I translate divine values into digital architecture. My work is anchored by two pillars:
+
+**SAFTA (The Core Execution):**
+- **S**hiddiq (*Truthfulness*): What the code promises is exactly what it executes. No more, no less.
+- **A**manah (*Trustworthiness*): Security as a sacred duty.
+- **F**athonah (*Intelligence*): Applying sharp technical proficiency to build efficient, optimized, and "smart" contracts.
+- **Ta**bligh (*Transparency*): Ensuring every logic is transparently disclosed, with no backdoors or obfuscated intentions.
+
+**NASDALIHIN (The Spiritual Mission):**
+- **Nas**horo (*Helper*): Committed to empowering humanity by building tools that bring benefit to all.
+- Syuha**da** (*Warrior of Justice*): Striving to uphold and implement Allah's laws of fairness through immutable code.
+- Sho**lihin** (*The Loyal Servant*): Writing every line of code with the steadfastness of one who will never betray his God.
 
 ---
 
