@@ -9,7 +9,7 @@
 
 # Hi, I'm Safta Nasdalihin 👋 | Web3 Architect & Security Enthusiast 🚀
 
-Dedicated Web3 Developer focused on building **Zero-Trust Systems** that are secure, transparent, and user-friendly. I specialize in bridging blockchain's power with real-world governance and commerce.
+Dedicated Web3 Developer focused on building Zero-Trust Systems to uphold justice and transparency. My mission is to contribute to the nation by creating immutable digital infrastructures—like Sura-Chain—that ensure every voice is heard and every record is untampered.
 
 ### 🧭 Guided by the Principles of my Name: **SAFTA NASDALIHIN**
 
