@@ -10,6 +10,7 @@
 # Hi, I'm Safta Nasdalihin 👋 | Web3 Architect & Security Enthusiast 🚀
 
 Dedicated Web3 Developer focused on building **Zero-Trust Systems** to uphold justice for all humanity. My mission is to bridge divine principles with digital reality—crafting immutable infrastructures rooted in the teachings of **Al-Qur'an and Hadith** to ensure fairness, truth, and transparency in every transaction.
+
 **A Note on Integrity:**
 I strive to ensure that the logic within my code strictly adheres to the values taught in the **Al-Qur'an and Hadith**. However, as a human, my understanding is limited. I warmly welcome feedback or corrections if any part of my implementation is found to be misaligned with these divine teachings. I view such guidance not as a critique, but as a blessing—a chance to refine my work and align it closer to the truth.
 
