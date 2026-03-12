@@ -51,7 +51,7 @@ A high-performance, censorship-resistant voting protocol.
 ### 📊 GitHub Stats & Insights
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saftanasdalihin&theme=tokyonight&hide_border=true" alt="Safta's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saftanasdalihin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions,issues,prs" alt="Safta's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saftanasdalihin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
