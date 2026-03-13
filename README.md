@@ -9,10 +9,10 @@
 
 # Hi, I'm Safta Nasdalihin 👋 | Web3 Architect & Security Enthusiast 🚀
 
-Dedicated Web3 Developer focused on building **Zero-Trust Systems** to uphold justice for all humanity. My mission is to bridge divine principles with digital reality—crafting immutable infrastructures rooted in the teachings of **Al-Qur'an and Hadith** to ensure fairness, truth, and transparency in every transaction.
+Dedicated Web3 Developer focused on building **Zero-Trust Systems** designed to eliminate the need for human trust where mathematics can provide certainty.
 
-**A Note on Integrity:**
-I strive to ensure that the logic within my code strictly adheres to the values taught in the **Al-Qur'an and Hadith**. However, as a human, my understanding is limited. I warmly welcome feedback or corrections if any part of my implementation is found to be misaligned with these divine teachings. I view such guidance not as a critique, but as a blessing—a chance to refine my work and align it closer to the truth.
+**The Philosophy of My Code:**
+I believe that **Honesty is a Technical Requirement**, not just a moral choice. My architecture is rooted in the pursuit of absolute transparency and fairness, inspired by the divine principles of integrity to serve all of humanity.
 
 ### 🧭 Guided by the Principles of my Name: **SAFTA NASDALIHIN**
 
@@ -42,7 +42,7 @@ A high-performance, censorship-resistant voting protocol.
 
 ### 🛠️ Tech Stack & Specialized Tools
 
-- **Blockchain & Smart Contracts:** Solidity (Beginner), Foundry (Learning), Hardhat (Beginner).
+- **Blockchain & Smart Contracts:** Solidity, Foundry, Hardhat.
 - **Backend & Tools:** Node.js, Linux (Ubuntu), Git (Conventional Commits).
 - **Frontend:** React.js, Next.js, Tailwind CSS, Viem.
 
