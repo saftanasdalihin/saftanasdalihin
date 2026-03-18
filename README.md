@@ -7,7 +7,7 @@
   <i>(In the name of Allah, the Most Gracious, the Most Merciful)</i>
 </p>
 
-# Hi, I'm Safta Nasdalihin 👋 | Smart Contract Developer | Solidity & Foundry | Building Ethical & Secure Web3 Solutions 🚀
+# Hi, I'm Safta Nasdalihin 👋 | Smart Contract Developer | Building Ethical & Secure Web3 Solutions 🚀
 
 Dedicated Smart Contract Developer focused on building **Zero-Trust Systems** designed to eliminate the need for human trust where mathematics can provide certainty.
 
