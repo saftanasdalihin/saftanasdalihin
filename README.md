@@ -3,7 +3,7 @@
   <i>(In the name of Allah, the Most Gracious, the Most Merciful)</i>
 </p>
 
-
+</br>
 
 # Hi, I'm Safta Nasdalihin 👋 | Smart Contract Developer | Building Ethical & Secure Web3 Solutions 🚀
 
