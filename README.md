@@ -39,20 +39,15 @@ A high-performance, censorship-resistant voting protocol.
 ---
 
 ### 🛠️ Core Tech Stack
-Languages: Solidity (^0.8.0), JavaScript (ES6+), TypeScript.
-
-Blockchain: Ethereum, Polygon (Layer 2 Solutions), LayerZero (Interoperability).
+- Languages: Solidity (^0.8.0), JavaScript (ES6+), TypeScript.
+- Blockchain: Ethereum, Polygon (Layer 2 Solutions), LayerZero (Interoperability).
 
 ### ⚙️ Frameworks & Tools
-Development: Foundry (Forge, Cast, Anvil), Hardhat (Soon).
-
-Library: OpenZeppelin (ERC-20, ERC-721, AccessControl).
-
-Integration: Viem (Soon), Ethers.js (Soon), Wagmi (Soon).
-
-Storage & Web3: IPFS (Soon), Arweave (Soon).
-
-Testing: Unit Testing & Fuzz Testing (Foundry).
+- Development: Foundry (Forge, Cast, Anvil), Hardhat (Soon).
+- Library: OpenZeppelin (ERC-20, ERC-721, AccessControl).
+- Integration: Viem (Soon), Ethers.js (Soon), Wagmi (Soon).
+- Storage & Web3: IPFS (Soon), Arweave (Soon).
+- Testing: Unit Testing & Fuzz Testing (Foundry).
 
 ---
 
