@@ -36,10 +36,19 @@ A high-performance, censorship-resistant voting protocol.
 
 ---
 
-### 🛠️ Tech Stack & Specialized Tools
+### 🛠️ Core Tech Stack
+[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-- **Blockchain & Smart Contracts:** Ethereum, EVM, Solidity, Foundry.
-- **Frontend:** Next.js, Tailwind CSS
+### ⚙️ Frameworks & Tools
+[![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)](https://book.getfoundry.sh/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FFCA28?style=for-the-badge&logo=hardhat&logoColor=black)](https://hardhat.org/) (Soon).
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)](https://openzeppelin.com/contracts/)
+[![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethers&logoColor=white)](https://docs.ethers.org/) (Soon).
+[![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white)](https://viem.sh/) (Soon).
+[![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=IPFS&logoColor=white)](https://ipfs.tech/) (Soon).
 
 ---
 
