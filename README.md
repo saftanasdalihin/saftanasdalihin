@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saftanasdalihin/saftanasdalihin/main/Header.svg" alt="Header" width="100%">
-</p>
-
-<p align="center">
   <b>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</b><br>
   <i>(In the name of Allah, the Most Gracious, the Most Merciful)</i>
 </p>
