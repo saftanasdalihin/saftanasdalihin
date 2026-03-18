@@ -7,9 +7,9 @@
   <i>(In the name of Allah, the Most Gracious, the Most Merciful)</i>
 </p>
 
-# Hi, I'm Safta Nasdalihin 👋 | Web3 Architect & Security Enthusiast 🚀
+# Hi, I'm Safta Nasdalihin 👋 | Smart Contract Developer | Solidity & Foundry | Building Ethical & Secure Web3 Solutions 🚀
 
-Dedicated Web3 Developer focused on building **Zero-Trust Systems** designed to eliminate the need for human trust where mathematics can provide certainty.
+Dedicated Smart Contract Developer focused on building **Zero-Trust Systems** designed to eliminate the need for human trust where mathematics can provide certainty.
 
 **The Philosophy of My Code:**
 I believe that **Honesty is a Technical Requirement**, not just a moral choice. My architecture is rooted in the pursuit of absolute transparency and fairness, inspired by the divine principles of integrity to serve all of humanity.
@@ -42,9 +42,8 @@ A high-performance, censorship-resistant voting protocol.
 
 ### 🛠️ Tech Stack & Specialized Tools
 
-- **Blockchain & Smart Contracts:** Solidity, Foundry, Hardhat.
-- **Backend & Tools:** Node.js, Linux (Ubuntu), Git (Conventional Commits).
-- **Frontend:** React.js, Next.js, Tailwind CSS, Viem.
+- **Blockchain & Smart Contracts:** Ethereum, EVM, Solidity, Foundry.
+- **Frontend:** Next.js, Tailwind CSS
 
 ---
 
