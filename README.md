@@ -39,7 +39,7 @@ A high-performance, censorship-resistant voting protocol.
 ---
 
 ### 🛠️ Core Tech Stack
-- Languages: Solidity (^0.8.0), JavaScript (ES6+), TypeScript.
+- Languages: Solidity (^0.8.16), JavaScript (ES6+), TypeScript.
 - Blockchain: Ethereum, Polygon (Layer 2 Solutions), LayerZero (Interoperability).
 
 ### ⚙️ Frameworks & Tools
