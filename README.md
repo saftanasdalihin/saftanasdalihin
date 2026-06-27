@@ -24,7 +24,7 @@ I believe **Honesty is a Technical Requirement**, not just a moral choice. My wo
 
 ### 📌 Pinned Projects
 - [sura-chain](https://github.com/saftanasdalihin/sura-chain) — Censorship-resistant voting system
-- [syariah-factory](https://github.com/saftanasdalihin/syariah-factory) — Smart contract factory
+- [ethicforge](https://github.com/saftanasdalihin/ethicforge) — Smart contract factory for ethical finance
 - [class-fund](https://github.com/saftanasdalihin/class-fund) — Full-stack fund management dApp
 - [saftanasdalihin-site](https://github.com/saftanasdalihin/saftanasdalihin-site) — Personal site
 
